@@ -1,0 +1,13 @@
+.backDrop {
+    background-image: url('./StockSnap_E1C34B4580.jpg');
+    opacity: 0.3;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+
+
+}
